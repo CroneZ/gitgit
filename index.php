@@ -1,4 +1,5 @@
 <!DOCTYPE HTML5>
+<html>
 <head>
 	<title>MakanMOU</title>
   <link rel="stylesheet" type="text/css" href="css/template.css">
