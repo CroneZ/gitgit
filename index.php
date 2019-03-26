@@ -40,7 +40,16 @@
       </div>
     </div>
 </head>
-<body></body>
+<body onload = "checkLogin()">
+  <div class = "orderWrap">
+    <div class = "content">
+      <h1 class = "title">MAKANMOU</h1>
+      <form class = "form">
+        <input type = "text" placeholder="Search By Typing"/>
+      </form>
+    </div>
+  </div>
+</body>
 <script>
   function openForm(){
     // document.getElementById("filter").style.opacity = 1;
